@@ -1,2 +1,19 @@
 # FSR_HW4
-Inside the folder "Video" there are 3 folders. "Default" folder which contains the videos of all the gaits without varying the parameters. "Gait3" folder which contains videos by changing friction coefficient Mu = 0.6, the mass m = 1kg, the desired velocity vd = 0.3 m/s for the gait 3. Analogous to the folder "Gait5". Inside "ReducedMass" folder there are all the others gaits(gait0,gait1,gait2 and gait4) by reducing the mass from 5.5kg to 1kg.
+
+Inside the folder **`Video`**, there are 3 subfolders:
+
+## 📁 Default
+Contains the videos of all the gaits **without varying the parameters**.
+
+## 📁 Gait3
+Contains videos by changing the following parameters for **Gait 3**:
+- Friction coefficient: `Mu = 0.6`
+- Mass: `m = 1 kg`
+- Desired velocity: `vd = 0.3 m/s`
+
+## 📁 Gait5
+Analogous to **Gait3**, but applied to **Gait 5**.
+
+## 📁 ReducedMass
+Contains videos of the other gaits (**Gait0**, **Gait1**, **Gait2**, and **Gait4**) with the **mass reduced from 5.5 kg to 1 kg**.
+
